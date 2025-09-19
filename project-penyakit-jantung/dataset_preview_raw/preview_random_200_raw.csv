@@ -1,0 +1,201 @@
+General_Health,Checkup,Exercise,Heart_Disease,Skin_Cancer,Other_Cancer,Depression,Diabetes,Arthritis,Sex,Age_Category,Height_(cm),Weight_(kg),BMI,Smoking_History,Alcohol_Consumption,Fruit_Consumption,Green_Vegetables_Consumption,FriedPotato_Consumption
+Very Good,Within the past year,Yes,No,No,No,No,No,Yes,Male,60-64,178.0,86.18,27.26,No,12.0,30.0,16.0,8.0
+Very Good,Within the past year,No,No,No,No,No,No,Yes,Female,70-74,165.0,79.38,29.12,No,0.0,60.0,60.0,12.0
+Good,Within the past year,No,No,No,No,No,No,Yes,Female,60-64,168.0,72.57,25.82,Yes,6.0,0.0,20.0,0.0
+Very Good,Within the past year,Yes,No,No,No,No,No,No,Male,25-29,183.0,93.89,28.07,Yes,0.0,60.0,8.0,2.0
+Fair,Within the past year,Yes,No,Yes,No,Yes,"No, pre-diabetes or borderline diabetes",Yes,Female,55-59,160.0,54.43,21.26,Yes,0.0,20.0,6.0,15.0
+Excellent,Within the past year,Yes,No,No,Yes,Yes,No,No,Female,60-64,165.0,74.84,27.46,No,0.0,120.0,30.0,5.0
+Excellent,Within the past year,Yes,No,Yes,No,No,No,No,Male,55-59,178.0,90.72,28.7,Yes,0.0,40.0,30.0,12.0
+Very Good,Within the past year,Yes,No,No,No,Yes,No,Yes,Female,65-69,178.0,77.11,24.39,Yes,0.0,60.0,12.0,8.0
+Good,Within the past 2 years,Yes,No,No,No,No,No,No,Female,70-74,155.0,54.43,22.67,No,30.0,12.0,16.0,4.0
+Excellent,Within the past 5 years,Yes,No,No,No,No,Yes,No,Female,55-59,168.0,134.26,47.78,No,2.0,60.0,4.0,1.0
+Good,Within the past year,Yes,No,No,No,No,Yes,Yes,Female,70-74,170.0,99.79,34.46,No,0.0,60.0,12.0,8.0
+Very Good,Within the past year,Yes,No,No,No,No,No,No,Male,18-24,191.0,108.86,30.0,No,2.0,30.0,4.0,4.0
+Good,5 or more years ago,Yes,No,No,No,No,No,No,Male,55-59,173.0,65.77,22.05,Yes,4.0,12.0,2.0,4.0
+Very Good,5 or more years ago,Yes,No,No,No,No,No,No,Male,30-34,180.0,79.38,24.41,No,1.0,0.0,0.0,5.0
+Fair,Within the past 2 years,Yes,No,No,No,No,No,Yes,Male,75-79,185.0,131.54,38.26,Yes,6.0,30.0,10.0,10.0
+Good,Within the past year,Yes,No,No,No,No,Yes,No,Male,35-39,170.0,133.81,46.2,No,0.0,12.0,8.0,8.0
+Fair,Within the past year,Yes,No,No,No,No,Yes,No,Female,45-49,168.0,108.86,38.74,No,0.0,30.0,4.0,4.0
+Good,Within the past year,No,No,No,No,Yes,No,Yes,Male,60-64,168.0,81.65,29.05,Yes,0.0,0.0,8.0,4.0
+Very Good,Never,No,No,No,No,No,No,No,Male,70-74,188.0,90.72,25.68,Yes,3.0,3.0,4.0,3.0
+Excellent,Within the past year,Yes,No,No,No,No,No,No,Female,50-54,168.0,57.15,20.34,No,8.0,90.0,8.0,1.0
+Excellent,Within the past year,Yes,No,No,No,No,No,No,Female,25-29,170.0,76.66,26.47,No,0.0,30.0,20.0,2.0
+Very Good,Within the past year,Yes,No,No,No,No,No,No,Male,50-54,180.0,123.38,37.94,Yes,2.0,2.0,30.0,2.0
+Very Good,Within the past year,Yes,No,No,No,No,No,No,Female,50-54,168.0,72.57,25.82,Yes,6.0,30.0,30.0,4.0
+Fair,Within the past year,No,No,No,No,No,Yes,Yes,Female,55-59,168.0,90.72,32.28,No,0.0,1.0,2.0,1.0
+Good,Within the past year,No,Yes,No,No,Yes,Yes,Yes,Female,60-64,160.0,54.43,21.26,Yes,0.0,12.0,15.0,120.0
+Very Good,Within the past 2 years,Yes,No,No,No,Yes,No,Yes,Female,40-44,157.0,45.36,18.29,No,0.0,90.0,8.0,0.0
+Very Good,Within the past year,Yes,No,No,Yes,No,No,No,Female,55-59,160.0,63.5,24.8,No,0.0,60.0,20.0,4.0
+Fair,Within the past year,No,No,No,Yes,No,No,No,Male,60-64,168.0,54.43,19.37,Yes,4.0,0.0,0.0,0.0
+Excellent,Within the past year,Yes,No,No,No,No,No,Yes,Male,65-69,173.0,81.65,27.37,No,28.0,60.0,16.0,4.0
+Very Good,5 or more years ago,Yes,No,No,No,No,No,No,Male,40-44,178.0,83.91,26.54,Yes,4.0,4.0,16.0,20.0
+Excellent,Within the past year,Yes,No,No,No,No,No,No,Female,50-54,165.0,56.7,20.8,No,5.0,90.0,30.0,2.0
+Excellent,Within the past year,Yes,No,No,No,No,No,Yes,Male,40-44,163.0,62.6,23.69,No,0.0,30.0,30.0,4.0
+Good,Within the past 5 years,Yes,No,No,No,No,No,No,Female,25-29,173.0,90.72,30.41,No,3.0,24.0,30.0,8.0
+Fair,Within the past year,No,No,Yes,Yes,No,Yes,Yes,Female,55-59,168.0,68.04,24.21,No,0.0,30.0,0.0,1.0
+Good,Within the past year,Yes,No,No,No,Yes,Yes,Yes,Female,65-69,163.0,83.91,31.75,Yes,0.0,30.0,12.0,0.0
+Fair,Within the past year,No,Yes,No,No,No,Yes,No,Male,65-69,173.0,95.25,31.93,No,1.0,30.0,8.0,8.0
+Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,65-69,180.0,78.02,23.99,No,20.0,0.0,5.0,2.0
+Good,Within the past year,Yes,Yes,No,No,No,Yes,No,Male,45-49,185.0,136.08,39.58,Yes,0.0,90.0,30.0,2.0
+Very Good,Within the past year,Yes,No,No,No,No,No,No,Male,40-44,170.0,102.06,35.24,No,24.0,30.0,30.0,4.0
+Excellent,Within the past year,Yes,No,No,No,No,No,No,Female,70-74,155.0,43.54,18.14,No,0.0,12.0,12.0,4.0
+Good,Within the past year,Yes,No,No,No,No,No,No,Male,60-64,170.0,86.18,29.76,No,0.0,28.0,8.0,16.0
+Good,Within the past year,Yes,No,No,No,No,No,No,Male,35-39,175.0,87.54,28.5,Yes,3.0,12.0,4.0,12.0
+Good,Within the past year,Yes,No,No,No,No,No,No,Male,35-39,173.0,79.38,26.61,No,0.0,20.0,12.0,8.0
+Very Good,Within the past year,Yes,No,No,No,No,No,No,Male,35-39,168.0,74.84,26.63,No,0.0,30.0,30.0,8.0
+Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,18-24,180.0,68.04,20.92,No,0.0,40.0,12.0,4.0
+Very Good,Within the past year,Yes,No,No,No,No,No,No,Male,40-44,180.0,74.84,23.01,No,2.0,30.0,8.0,1.0
+Fair,Within the past year,Yes,No,No,No,Yes,No,No,Female,18-24,163.0,88.45,33.47,No,0.0,30.0,60.0,30.0
+Good,Within the past year,No,No,No,Yes,Yes,Yes,No,Female,60-64,173.0,95.25,31.93,No,0.0,60.0,0.0,4.0
+Good,Within the past year,Yes,No,No,No,Yes,No,No,Female,40-44,173.0,87.09,29.19,No,0.0,12.0,16.0,4.0
+Very Good,Within the past 5 years,Yes,No,No,No,No,No,Yes,Male,80+,150.0,48.53,21.61,Yes,2.0,30.0,12.0,30.0
+Excellent,Within the past year,No,No,Yes,No,No,No,No,Female,65-69,173.0,76.2,25.54,No,1.0,60.0,16.0,4.0
+Very Good,Within the past year,Yes,No,No,No,No,No,Yes,Female,65-69,168.0,86.18,30.67,No,0.0,30.0,8.0,0.0
+Good,Within the past year,Yes,No,No,No,No,No,Yes,Male,60-64,180.0,90.72,27.89,Yes,2.0,30.0,20.0,4.0
+Good,Within the past year,Yes,No,No,No,No,Yes,Yes,Female,65-69,163.0,86.18,32.61,No,0.0,12.0,30.0,4.0
+Very Good,Within the past 5 years,Yes,No,No,No,No,No,No,Male,30-34,185.0,95.25,27.71,No,0.0,20.0,20.0,12.0
+Very Good,Within the past year,Yes,No,No,No,Yes,No,No,Female,45-49,163.0,61.23,23.17,No,8.0,16.0,4.0,4.0
+Good,Within the past 5 years,Yes,No,No,No,No,No,No,Female,50-54,170.0,90.72,31.32,No,3.0,90.0,30.0,4.0
+Very Good,Within the past year,Yes,No,No,No,No,No,Yes,Female,45-49,155.0,72.57,30.23,Yes,4.0,30.0,30.0,12.0
+Very Good,Within the past 2 years,Yes,No,No,No,No,No,No,Male,45-49,180.0,97.52,29.99,Yes,15.0,5.0,15.0,20.0
+Excellent,Within the past 5 years,Yes,No,No,No,No,No,No,Male,25-29,170.0,64.41,22.24,No,8.0,60.0,12.0,10.0
+Excellent,Within the past year,Yes,No,No,No,No,No,No,Female,45-49,165.0,55.79,20.47,No,2.0,5.0,30.0,0.0
+Excellent,Within the past year,Yes,No,No,Yes,No,No,Yes,Male,65-69,175.0,74.84,24.37,No,4.0,45.0,12.0,2.0
+Good,Within the past year,Yes,Yes,No,No,No,No,Yes,Male,60-64,165.0,81.65,29.95,No,0.0,30.0,8.0,0.0
+Very Good,Within the past 2 years,Yes,No,No,No,No,No,No,Male,40-44,183.0,102.06,30.52,Yes,9.0,15.0,60.0,30.0
+Very Good,Within the past year,Yes,No,No,No,No,No,Yes,Male,65-69,178.0,120.2,38.02,No,2.0,4.0,10.0,2.0
+Very Good,Within the past year,Yes,No,No,No,No,No,No,Male,35-39,183.0,104.33,31.19,Yes,0.0,12.0,8.0,4.0
+Fair,Within the past year,Yes,No,No,No,No,Yes,No,Female,45-49,163.0,86.18,32.61,No,0.0,30.0,30.0,4.0
+Poor,Within the past year,No,No,Yes,No,No,Yes,Yes,Male,60-64,173.0,81.65,27.37,Yes,0.0,120.0,0.0,1.0
+Excellent,Within the past year,Yes,No,No,No,No,No,No,Female,30-34,157.0,57.15,23.05,No,0.0,60.0,60.0,1.0
+Poor,Never,No,No,No,No,No,No,Yes,Male,80+,170.0,72.57,25.06,Yes,28.0,4.0,0.0,0.0
+Very Good,Within the past year,Yes,No,No,No,No,No,No,Male,50-54,185.0,88.45,25.73,Yes,0.0,20.0,12.0,3.0
+Fair,Within the past 2 years,Yes,Yes,No,No,No,Yes,Yes,Male,80+,180.0,95.25,29.29,Yes,0.0,30.0,4.0,0.0
+Fair,Within the past year,Yes,No,Yes,No,No,No,No,Female,80+,165.0,63.5,23.3,No,0.0,12.0,8.0,0.0
+Good,Within the past year,Yes,No,No,No,Yes,No,Yes,Female,40-44,175.0,83.01,27.02,Yes,0.0,4.0,5.0,16.0
+Very Good,Within the past year,Yes,No,Yes,Yes,No,No,No,Female,60-64,168.0,72.57,25.82,No,20.0,8.0,12.0,4.0
+Poor,Within the past 5 years,No,No,No,No,Yes,"No, pre-diabetes or borderline diabetes",No,Male,45-49,175.0,146.06,47.55,Yes,30.0,30.0,16.0,4.0
+Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,50-54,180.0,71.67,22.04,No,8.0,30.0,8.0,3.0
+Excellent,Within the past 2 years,Yes,No,No,No,No,No,No,Female,55-59,160.0,53.07,20.73,No,12.0,12.0,12.0,0.0
+Good,Within the past 2 years,Yes,No,No,No,No,No,No,Male,50-54,180.0,95.25,29.29,Yes,2.0,8.0,16.0,2.0
+Excellent,Within the past year,No,No,No,No,Yes,Yes,No,Male,40-44,191.0,127.01,35.0,No,10.0,30.0,16.0,4.0
+Excellent,Within the past year,Yes,No,No,No,No,No,Yes,Female,65-69,163.0,61.23,23.17,No,1.0,90.0,16.0,0.0
+Very Good,Within the past year,Yes,No,No,Yes,No,No,No,Female,75-79,170.0,72.57,25.06,Yes,0.0,30.0,20.0,5.0
+Very Good,5 or more years ago,Yes,No,No,No,No,No,No,Male,40-44,183.0,86.18,25.77,Yes,4.0,60.0,16.0,30.0
+Very Good,Within the past year,Yes,No,Yes,No,No,No,Yes,Female,70-74,155.0,70.31,29.29,Yes,0.0,16.0,12.0,1.0
+Very Good,Within the past year,No,No,No,No,No,No,No,Female,65-69,163.0,81.65,30.9,No,0.0,60.0,8.0,8.0
+Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,30-34,191.0,79.38,21.87,Yes,4.0,30.0,60.0,2.0
+Good,Within the past year,Yes,No,No,No,No,No,No,Female,40-44,157.0,74.84,30.18,Yes,2.0,30.0,8.0,2.0
+Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,18-24,175.0,90.72,29.53,No,4.0,20.0,0.0,12.0
+Good,Within the past year,Yes,No,No,No,No,No,No,Female,50-54,160.0,72.57,28.34,No,25.0,20.0,30.0,4.0
+Fair,Within the past year,Yes,No,No,No,Yes,No,No,Female,25-29,157.0,67.13,27.07,Yes,2.0,8.0,0.0,8.0
+Good,Within the past year,No,No,No,No,Yes,No,No,Female,75-79,178.0,81.65,25.83,Yes,4.0,30.0,12.0,4.0
+Excellent,Within the past year,Yes,No,No,No,No,No,No,Female,55-59,175.0,65.77,21.41,No,10.0,2.0,30.0,3.0
+Very Good,Within the past year,No,No,No,No,No,No,No,Female,50-54,168.0,99.79,35.51,No,5.0,10.0,2.0,4.0
+Very Good,Within the past year,No,No,No,No,Yes,No,Yes,Female,65-69,163.0,82.55,31.24,Yes,10.0,20.0,20.0,2.0
+Fair,Within the past year,Yes,Yes,No,No,No,No,Yes,Female,55-59,155.0,72.57,30.23,Yes,0.0,30.0,30.0,1.0
+Fair,Within the past year,Yes,No,No,No,No,Yes,No,Female,30-34,180.0,136.08,41.84,Yes,0.0,90.0,30.0,4.0
+Good,Within the past year,No,No,No,No,No,Yes,No,Female,70-74,175.0,96.62,31.45,No,0.0,12.0,5.0,12.0
+Good,Within the past 5 years,Yes,No,No,No,No,No,No,Male,45-49,178.0,65.77,20.81,Yes,2.0,8.0,0.0,3.0
+Poor,Within the past year,No,No,No,No,No,Yes,Yes,Female,45-49,178.0,200.49,63.42,Yes,0.0,5.0,7.0,2.0
+Very Good,Within the past year,No,No,No,Yes,No,No,Yes,Male,75-79,191.0,111.13,30.62,No,0.0,60.0,12.0,3.0
+Fair,Within the past year,Yes,No,No,Yes,No,No,No,Male,70-74,175.0,68.95,22.45,No,0.0,30.0,30.0,2.0
+Excellent,Within the past year,Yes,No,Yes,No,No,No,No,Male,60-64,188.0,87.09,24.65,Yes,30.0,16.0,12.0,3.0
+Very Good,Within the past year,Yes,No,No,No,No,No,No,Female,75-79,163.0,68.04,25.75,No,0.0,8.0,4.0,4.0
+Good,Within the past year,Yes,No,No,No,Yes,No,Yes,Female,25-29,170.0,70.31,24.28,No,4.0,8.0,30.0,4.0
+Good,Within the past 2 years,Yes,No,No,No,No,No,No,Male,18-24,170.0,91.63,31.64,No,0.0,60.0,8.0,4.0
+Good,Within the past year,Yes,No,No,No,No,No,Yes,Male,55-59,178.0,111.13,35.15,Yes,0.0,4.0,16.0,1.0
+Good,Within the past year,Yes,No,No,Yes,Yes,No,Yes,Female,30-34,155.0,97.07,40.43,Yes,1.0,16.0,10.0,1.0
+Excellent,5 or more years ago,Yes,No,No,No,No,No,No,Male,40-44,196.0,83.46,21.82,No,12.0,60.0,12.0,3.0
+Very Good,Within the past year,Yes,No,No,No,No,No,No,Male,50-54,173.0,107.05,35.88,No,0.0,30.0,30.0,1.0
+Very Good,Within the past year,No,No,No,Yes,No,No,Yes,Female,70-74,160.0,76.66,29.94,No,0.0,30.0,4.0,0.0
+Good,Within the past 5 years,Yes,No,No,No,No,No,No,Male,40-44,180.0,93.44,28.73,Yes,12.0,60.0,12.0,16.0
+Good,Within the past year,No,No,No,No,No,No,Yes,Male,65-69,175.0,82.55,26.88,Yes,4.0,8.0,8.0,16.0
+Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,60-64,178.0,72.57,22.96,No,0.0,30.0,8.0,8.0
+Very Good,Within the past 2 years,Yes,No,No,No,No,No,Yes,Female,60-64,170.0,90.72,31.32,No,0.0,30.0,30.0,3.0
+Good,Within the past 5 years,No,No,No,No,No,No,Yes,Male,40-44,165.0,81.65,29.95,Yes,12.0,13.0,3.0,8.0
+Good,Within the past year,Yes,No,No,No,No,No,No,Female,35-39,163.0,59.42,22.49,No,0.0,60.0,30.0,8.0
+Good,Within the past year,Yes,Yes,No,No,No,No,Yes,Male,65-69,173.0,113.4,38.01,No,1.0,16.0,8.0,8.0
+Good,Within the past 5 years,Yes,No,No,Yes,Yes,"Yes, but female told only during pregnancy",No,Female,35-39,191.0,127.01,35.0,Yes,5.0,60.0,15.0,10.0
+Good,Within the past 5 years,Yes,No,No,No,No,No,No,Male,45-49,163.0,64.0,24.22,No,2.0,30.0,16.0,0.0
+Very Good,Within the past year,Yes,No,No,No,No,No,Yes,Female,30-34,160.0,52.16,20.37,No,4.0,60.0,5.0,10.0
+Very Good,Within the past year,Yes,No,No,No,No,No,Yes,Female,80+,160.0,66.68,26.04,Yes,0.0,30.0,25.0,2.0
+Very Good,Within the past year,Yes,Yes,No,No,Yes,Yes,Yes,Female,80+,163.0,63.5,24.03,No,0.0,30.0,60.0,0.0
+Very Good,Within the past year,Yes,No,No,No,No,No,No,Male,18-24,170.0,99.79,34.46,No,0.0,60.0,0.0,7.0
+Excellent,Within the past year,Yes,No,No,No,No,No,Yes,Female,35-39,155.0,81.65,34.01,No,0.0,8.0,30.0,3.0
+Good,Within the past 2 years,Yes,No,Yes,No,No,No,Yes,Female,75-79,155.0,54.43,22.67,No,0.0,90.0,10.0,12.0
+Good,Within the past year,Yes,No,No,No,No,No,No,Male,50-54,168.0,86.18,30.67,Yes,6.0,20.0,5.0,6.0
+Very Good,Within the past year,Yes,No,No,No,No,No,No,Male,18-24,168.0,70.31,25.02,No,8.0,16.0,8.0,0.0
+Very Good,Within the past 2 years,Yes,No,Yes,No,No,No,No,Male,70-74,188.0,79.38,22.47,Yes,10.0,60.0,16.0,1.0
+Good,Within the past year,Yes,No,No,No,No,No,No,Male,60-64,178.0,104.33,33.0,No,0.0,24.0,4.0,12.0
+Good,Within the past year,Yes,No,No,No,No,No,No,Male,65-69,180.0,88.45,27.2,Yes,0.0,30.0,8.0,0.0
+Very Good,Within the past 5 years,No,No,No,No,No,No,No,Male,18-24,191.0,74.84,20.62,No,0.0,16.0,1.0,12.0
+Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,65-69,185.0,86.64,25.2,No,2.0,20.0,16.0,2.0
+Good,Within the past 5 years,Yes,No,No,No,No,No,No,Female,18-24,157.0,68.04,27.44,No,7.0,30.0,12.0,4.0
+Very Good,Within the past year,Yes,No,No,No,No,No,No,Female,65-69,170.0,58.06,20.05,Yes,3.0,60.0,20.0,0.0
+Very Good,Within the past year,Yes,No,No,No,No,No,No,Female,50-54,168.0,71.21,25.34,No,5.0,30.0,30.0,10.0
+Excellent,Within the past 2 years,Yes,No,No,No,No,No,Yes,Male,45-49,178.0,81.65,25.83,No,5.0,120.0,5.0,4.0
+Good,Within the past year,No,No,No,No,Yes,Yes,No,Female,35-39,168.0,113.4,40.35,No,0.0,12.0,4.0,4.0
+Very Good,Within the past year,Yes,No,No,No,No,No,No,Male,30-34,175.0,94.35,30.72,No,25.0,60.0,30.0,4.0
+Very Good,Within the past 5 years,Yes,No,No,No,No,No,No,Female,60-64,163.0,54.43,20.6,Yes,15.0,30.0,30.0,5.0
+Fair,Within the past year,Yes,No,No,No,Yes,No,No,Male,18-24,170.0,68.04,23.49,No,2.0,16.0,4.0,16.0
+Very Good,Within the past year,Yes,No,No,No,No,"No, pre-diabetes or borderline diabetes",No,Male,60-64,178.0,77.11,24.39,Yes,0.0,30.0,16.0,8.0
+Very Good,Within the past year,Yes,No,No,No,No,No,No,Female,25-29,157.0,68.04,27.44,No,1.0,90.0,30.0,8.0
+Fair,Within the past 5 years,Yes,No,No,No,No,No,No,Male,25-29,185.0,85.28,24.8,Yes,0.0,90.0,8.0,20.0
+Very Good,Within the past year,Yes,No,Yes,No,Yes,No,Yes,Female,60-64,183.0,83.91,25.09,No,15.0,60.0,30.0,4.0
+Good,Within the past year,No,Yes,No,No,No,No,Yes,Male,40-44,175.0,108.86,35.44,Yes,10.0,30.0,30.0,5.0
+Very Good,5 or more years ago,No,No,No,No,No,No,No,Male,35-39,193.0,99.79,26.78,No,0.0,30.0,4.0,2.0
+Very Good,Within the past year,Yes,No,No,No,Yes,No,No,Female,45-49,160.0,90.72,35.43,Yes,2.0,90.0,90.0,3.0
+Fair,Within the past year,Yes,No,No,No,Yes,No,No,Female,30-34,155.0,58.97,24.56,Yes,6.0,60.0,3.0,25.0
+Good,Within the past 2 years,No,No,No,No,No,No,No,Male,40-44,183.0,104.33,31.19,No,10.0,8.0,4.0,10.0
+Very Good,Within the past year,Yes,No,No,No,No,No,Yes,Male,70-74,180.0,86.18,26.5,No,4.0,4.0,8.0,8.0
+Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,30-34,183.0,98.88,29.57,Yes,20.0,5.0,16.0,6.0
+Excellent,Within the past year,Yes,No,Yes,No,No,No,No,Female,75-79,165.0,52.16,19.14,Yes,0.0,30.0,30.0,0.0
+Good,Within the past year,Yes,No,No,No,No,Yes,No,Male,50-54,175.0,127.01,41.35,No,0.0,20.0,16.0,8.0
+Very Good,Within the past year,Yes,No,No,No,Yes,No,No,Female,45-49,170.0,64.86,22.4,Yes,0.0,20.0,15.0,2.0
+Very Good,Within the past year,No,No,No,No,Yes,No,Yes,Female,70-74,157.0,89.81,36.21,No,0.0,5.0,4.0,3.0
+Fair,Within the past year,Yes,No,No,No,No,Yes,No,Male,50-54,165.0,79.38,29.12,No,4.0,30.0,90.0,0.0
+Very Good,Within the past year,Yes,No,No,No,No,No,Yes,Female,60-64,150.0,63.5,28.28,No,4.0,30.0,4.0,2.0
+Good,Within the past 2 years,Yes,No,No,No,No,No,Yes,Male,65-69,188.0,108.86,30.81,No,0.0,12.0,8.0,12.0
+Very Good,Within the past 2 years,Yes,No,No,No,No,No,No,Male,55-59,120.0,72.12,50.08,No,4.0,90.0,30.0,4.0
+Good,Within the past year,Yes,No,No,No,No,No,No,Female,40-44,163.0,86.18,32.61,Yes,1.0,60.0,30.0,1.0
+Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,25-29,178.0,111.58,35.3,No,12.0,30.0,8.0,12.0
+Very Good,Within the past year,Yes,No,No,No,Yes,No,Yes,Female,30-34,173.0,92.99,31.17,No,0.0,30.0,4.0,4.0
+Very Good,Within the past year,Yes,No,No,No,No,No,No,Female,60-64,163.0,69.4,26.26,Yes,29.0,2.0,30.0,2.0
+Good,Within the past year,Yes,Yes,No,Yes,Yes,Yes,No,Female,65-69,155.0,63.5,26.45,No,0.0,30.0,30.0,2.0
+Excellent,Within the past year,No,No,No,No,No,No,No,Female,50-54,152.0,77.11,33.2,Yes,4.0,0.0,30.0,4.0
+Good,Within the past 2 years,No,No,No,No,No,No,Yes,Female,45-49,165.0,90.72,33.28,Yes,0.0,8.0,12.0,8.0
+Very Good,Within the past year,Yes,Yes,No,No,Yes,No,Yes,Female,80+,155.0,62.6,26.07,Yes,4.0,30.0,12.0,0.0
+Fair,Within the past year,No,No,No,No,No,Yes,Yes,Female,80+,163.0,70.31,26.61,No,0.0,16.0,0.0,1.0
+Good,Within the past year,No,No,No,No,No,Yes,No,Female,60-64,165.0,68.04,24.96,Yes,30.0,30.0,15.0,0.0
+Very Good,Within the past year,Yes,No,No,No,No,No,No,Female,60-64,160.0,55.79,21.79,Yes,1.0,30.0,30.0,4.0
+Good,Within the past year,Yes,No,No,No,Yes,No,No,Female,55-59,170.0,88.45,30.54,No,2.0,28.0,2.0,2.0
+Good,Within the past year,Yes,No,No,No,No,No,No,Female,80+,165.0,59.87,21.97,No,0.0,30.0,16.0,60.0
+Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,50-54,198.0,85.73,21.84,No,0.0,12.0,12.0,8.0
+Very Good,Within the past year,Yes,No,No,No,No,No,No,Male,50-54,180.0,102.06,31.38,No,1.0,30.0,30.0,4.0
+Very Good,Within the past year,Yes,No,No,Yes,No,"Yes, but female told only during pregnancy",No,Female,40-44,165.0,70.31,25.79,No,6.0,30.0,16.0,2.0
+Fair,Within the past year,Yes,No,No,No,No,No,Yes,Female,75-79,168.0,64.41,22.92,Yes,0.0,1.0,4.0,4.0
+Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,55-59,175.0,73.94,24.07,No,0.0,4.0,3.0,5.0
+Good,5 or more years ago,Yes,No,No,No,Yes,No,No,Female,30-34,173.0,127.01,42.57,Yes,1.0,0.0,8.0,1.0
+Very Good,Within the past year,Yes,No,No,No,No,No,No,Male,55-59,188.0,122.47,34.67,No,30.0,0.0,12.0,0.0
+Poor,Within the past year,Yes,No,No,Yes,No,No,Yes,Male,75-79,178.0,90.72,28.7,No,4.0,90.0,16.0,8.0
+Very Good,Within the past year,Yes,No,Yes,No,No,No,Yes,Female,80+,157.0,64.41,25.97,Yes,10.0,60.0,15.0,0.0
+Good,Within the past 2 years,Yes,No,No,No,No,No,Yes,Male,50-54,183.0,103.42,30.92,No,0.0,120.0,30.0,1.0
+Good,Within the past year,Yes,No,No,No,No,No,No,Male,55-59,175.0,86.18,28.06,No,4.0,8.0,16.0,0.0
+Good,Within the past 2 years,Yes,No,No,No,No,No,No,Male,30-34,178.0,81.65,25.83,No,0.0,30.0,0.0,120.0
+Poor,Within the past year,Yes,No,No,No,No,Yes,Yes,Female,65-69,155.0,99.34,41.38,Yes,0.0,0.0,12.0,4.0
+Very Good,Within the past year,Yes,No,No,No,No,No,No,Male,55-59,168.0,72.57,25.82,No,12.0,30.0,12.0,4.0
+Good,Within the past year,Yes,No,No,No,No,No,No,Male,60-64,183.0,104.33,31.19,No,0.0,12.0,8.0,16.0
+Good,Within the past year,No,No,No,No,No,Yes,Yes,Female,75-79,163.0,72.57,27.46,Yes,0.0,60.0,30.0,0.0
+Good,Within the past year,No,No,No,No,Yes,No,Yes,Male,55-59,178.0,108.86,34.44,No,15.0,1.0,60.0,30.0
+Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,18-24,168.0,64.41,22.92,No,4.0,20.0,30.0,8.0
+Good,Within the past year,Yes,No,No,No,No,No,No,Female,50-54,165.0,58.97,21.63,No,0.0,20.0,4.0,12.0
+Fair,Within the past year,No,No,No,No,No,No,No,Female,18-24,165.0,110.22,40.44,No,0.0,3.0,5.0,4.0
+Good,Within the past year,Yes,No,No,No,No,No,No,Female,80+,160.0,49.9,19.49,Yes,0.0,30.0,12.0,4.0
+Very Good,Within the past 2 years,Yes,No,No,No,No,No,No,Female,75-79,165.0,54.43,19.97,Yes,30.0,30.0,30.0,4.0
+Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,45-49,175.0,90.72,29.53,Yes,0.0,30.0,2.0,6.0
+Good,Within the past year,Yes,No,No,Yes,Yes,No,Yes,Female,70-74,152.0,42.64,18.36,Yes,0.0,30.0,4.0,2.0
+Good,Within the past year,Yes,No,No,No,No,No,Yes,Male,65-69,183.0,97.52,29.16,No,0.0,30.0,16.0,4.0
+Poor,Within the past year,Yes,Yes,No,No,No,Yes,No,Male,55-59,180.0,108.86,33.47,Yes,6.0,30.0,14.0,16.0
+Good,5 or more years ago,No,No,No,No,No,No,No,Female,70-74,170.0,68.04,23.49,Yes,4.0,4.0,30.0,4.0
+Very Good,Within the past year,Yes,No,No,No,Yes,No,No,Female,30-34,170.0,79.38,27.41,No,0.0,90.0,8.0,8.0
