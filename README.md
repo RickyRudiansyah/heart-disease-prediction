@@ -43,9 +43,28 @@ https://www.kaggle.com/datasets/harshwardhanfartale/cardiovascular-disease-risk-
 - Logistic Regression: **Recall ≈ 0.79**, **AUC ≈ 0.82**  
 - Random Forest / XGBoost: bandingkan di notebook
 
-**Cuplikan visual**
-- Confusion Matrix  
-- ROC Curve  
-- Heatmap Korelasi  
+**Cuplikan visual**## 📈 Hasil & Visual
 
-> Lihat folder `project-penyakit-jantung/screenshots/` untuk visual lainnya.
+- Confusion Matrix  
+  ![Confusion Matrix](project-penyakit-jantung/screenshots/confusion_matrix_LogisticRegression_HeartDisease_v1.0.png)
+
+- ROC Curve  
+  ![ROC](project-penyakit-jantung/screenshots/roc_curve_comparison_v2.png)
+
+- Heatmap  
+  ![Heatmap](project-penyakit-jantung/screenshots/heatmap.png)
+
+- Feature Importance  
+  ![Feature Importance](project-penyakit-jantung/screenshots/feature_importance_LogisticRegression.png)
+
+- Distribusi Target  
+  ![Distribusi Target](project-penyakit-jantung/screenshots/distribusi_target_heart_disease.png)
+
+- Distribusi Usia vs BMI  
+  ![Distribusi Usia vs BMI](project-penyakit-jantung/screenshots/distribusi_usia_vs_bmi.png)
+
+- Prototype App (Streamlit)  
+  ![Dashboard](project-penyakit-jantung/screenshots/Dashboard.png)
+  ![Dashboard 2](project-penyakit-jantung/screenshots/Dashboard_2.png)
+  ![Dashboard 3](project-penyakit-jantung/screenshots/Dashboard_3.png)
+  ![Dashboard 4](project-penyakit-jantung/screenshots/Dashboard_4.png)
