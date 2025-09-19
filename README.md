@@ -24,6 +24,8 @@ Sistem peringatan dini untuk skrining risiko penyakit jantung.pdf
 ## 📊 Dataset
 Subset terkurasi dari **CDC BRFSS 2022** (Behavioral Risk Factor Surveillance System).  
 Variabel contoh: `General_Health`, `Checkup`, `Exercise`, `Heart_Disease` (target), `Diabetes`, `Smoking_History`, `Alcohol_Consumption`, `Fruit_Consumption`, `Green_Vegetables_Consumption`, `FriedPotato_Consumption`, `Sex`, `Age_Category`, `Height_(cm)`, `Weight_(kg)`, `BMI`.  
+**Data source:** subset/rekoding BRFSS 2022. Versi kurasi yang mirip: 
+https://www.kaggle.com/datasets/harshwardhanfartale/cardiovascular-disease-risk-prediction
 > Catatan: kolom & label sudah disederhanakan dari versi resmi (subset/rekoding). Data penuh tidak di-commit.
 
 ---
