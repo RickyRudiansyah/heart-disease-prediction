@@ -9,14 +9,14 @@ Proyek ini membangun **sistem peringatan dini** berbasis machine learning untuk 
 
 ## 📂 Struktur
 project-penyakit-jantung/
-├─ dataset_preview_clean/ # sample 2k & head (sudah preprocessing)
-├─ dataset_preview_raw/ # sample 2k & head (raw)
-├─ notebooks/
-│ └─ Full_Code.ipynb # end-to-end: EDA → prep → modeling → evaluasi
-├─ screenshots/ # hasil visual
-├─ app.py # (opsional) prototype Streamlit
-├─ Link Dataset,Presentasi,Demo.txt
-└─ Sistem peringatan dini untuk skrining risiko penyakit jantung.pdf
+dataset_preview_clean/ # sample 2k & head (sudah preprocessing)
+dataset_preview_raw/ # sample 2k & head (raw)
+notebooks/
+Full_Code.ipynb # end-to-end: EDA → prep → modeling → evaluasi
+screenshots/ # hasil visual
+app.py # (opsional) prototype Streamlit
+Link Dataset,Presentasi,Demo.txt
+Sistem peringatan dini untuk skrining risiko penyakit jantung.pdf
 
 
 ---
